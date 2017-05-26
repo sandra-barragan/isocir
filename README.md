@@ -1,8 +1,8 @@
-igualdad_ordenes_circulares
-===========================
+isocir: Isotonic Inference for Circular Data
+============================================
 
-Todo el código necesario para ejecutar el contraste de igualdad de órdenes circulares entre diferentes especies.
+This is package in R language load in the CRAN:
 
-Depends:
-isocir v2.0 
-R v3.1
+https://cran.r-project.org/web/packages/isocir/index.html
+
+It consists of different functions to dead with circular data under order restrictions.
